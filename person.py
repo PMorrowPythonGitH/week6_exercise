@@ -5,5 +5,5 @@ class Person:
       self.l_name = l_name
       
     def get_full_name(self):
-      return f'{self.f_name} {self.l_name}
+      return f'{self.f_name} {self.l_name}'
       
