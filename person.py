@@ -4,6 +4,6 @@ class Person:
       self.f_name = f_name
       self.l_name = l_name
       
-    def get_full_name(self):
+    def test_get_full_name(self):
       return f'{self.f_name} {self.l_name}'
       
